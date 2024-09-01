@@ -3,7 +3,8 @@
 
 - 🔭 I’m currently working on [Web Scraping and ML Models for EPL Football matches](https://github.com/Yashp-5/Web-Scraping-and-ML-models-for-football)
 
-- 🌱 I’m currently learning **Generative AI**
+- 🌱 I’m currently working my **startup**
+  
 
 - 🤝 I’m looking for **Opportunities as a Software Engineer**
 
